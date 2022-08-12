@@ -13,7 +13,7 @@ snacks(grapes, apples, burritos, oranges)
 
 \item{burritos}{# number of burritos}
 
-\item{oranges}{#nunber of oranges}
+\item{oranges}{# nunber of oranges}
 }
 \value{
 # calculation

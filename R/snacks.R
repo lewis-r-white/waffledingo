@@ -3,7 +3,7 @@
 #' @param grapes # number of grapes
 #' @param apples # number of apples
 #' @param burritos # number of burritos
-#' @param oranges #nunber of oranges
+#' @param oranges # nunber of oranges
 #'
 #' @return # calculation
 #' @export
